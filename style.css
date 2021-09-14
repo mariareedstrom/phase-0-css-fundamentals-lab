@@ -3,3 +3,35 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+.navlink {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: aqua;
+}
+
+figcaption {
+  font-size: 75%;
+  text-align: center;
+}
+
+#featured-property {
+  text-align: center;
+}
+
+.body-text {
+  width: 800px;
+  margin: auto;
+  margin-bottom: 14px;
+}
+
+.footer {
+  float: left;
+  background-color: aquamarine;
+  text-align: center;
+  width: 25%;
+}
